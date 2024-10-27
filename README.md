@@ -1,2 +1,2 @@
 # toy-compiler
-x86_64 compiler written in C for Toy language (subset of C). I am unable to make this code public.
+x86_64 compiler written in C for Toy language (subset of C). I am unable to make this code public. feel free to email me for further elaboration.
